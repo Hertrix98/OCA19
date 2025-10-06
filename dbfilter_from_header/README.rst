@@ -109,6 +109,8 @@ Contributors
 -  Lai Tim Siu (Quaritle Limited) <info@quartile.co>
 -  Tharathip Chaweewongphan <tharathipc@ecosoft.co.th>
 -  Eric Antones <eantones@nuobit.com>
+-  Hernando Avilez <contacto@guox.com.mx>
+
 
 Maintainers
 -----------
